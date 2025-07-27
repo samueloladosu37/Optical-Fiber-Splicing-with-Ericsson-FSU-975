@@ -100,10 +100,10 @@ Note that there are default programs or you can decide to define your parameters
 This experiment successfully demonstrated the process of fusion splicing, where two optical fibers are welded together under controlled heat using the Ericsson FSU-975 splicer. The quality of the splice is highly dependent on proper fiber preparation — including stripping, cleaning, and precise cleaving — followed by accurate alignment and welding.
 
 ### Key Results:
-- Achieved an **attenuation (splice loss) of less than 0.02 dB**
-- This is **significantly better** than the typical **industry standard**, which accepts:
+- Achieved an **attenuation (splice loss) of less than 0.2 dB**
+- This is within the typical **industry standard** range, which accepts:
   - **≤ 0.10 dB** for high-performance telecom applications
-  - **0.05–0.30 dB** as acceptable in many field installations
+  - **0.2–0.50 dB** as acceptable in many field installations
 
 ### Additional Observations:
 - Visual inspection on the splicer was the first checkpoint for splice quality before measuring loss.
