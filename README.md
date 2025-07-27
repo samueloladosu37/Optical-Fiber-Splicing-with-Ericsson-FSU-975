@@ -88,7 +88,7 @@ Note that there are default programs or you can decide to define your parameters
 ## 🖼️ Splice Images
 
 ### 🔹 Tape Weld 
-![Tape Weld](./images/tape_weld.jpg)
+![Tape Weld](https://github.com/samueloladosu37/Optical-Fiber-Splicing-with-Ericsson-FSU-975/blob/main/Tape%20Weld.png)
 
 ### 🔹 Lens Weld 
 ![Lens Weld](./images/lens_weld.jpg)
