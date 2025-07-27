@@ -91,8 +91,8 @@ Note that there are default programs or you can decide to define your parameters
 ![Tape Weld](https://github.com/samueloladosu37/Optical-Fiber-Splicing-with-Ericsson-FSU-975/blob/main/Tape%20Weld.png)
 
 ### 🔹 Lens Weld 
-![Lens Weld](./images/lens_weld.jpg)
-
+![Lens Weld](https://github.com/samueloladosu37/Optical-Fiber-Splicing-with-Ericsson-FSU-975/blob/main/Lens.png)
+Fiber inserted from one end of the V-groove
 
 ---
 
