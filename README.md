@@ -1,6 +1,6 @@
 # Optical Fiber Fusion Splicing using the Ericsson FSU-975
 
-This repository documents an experiment on **optical fiber fusion splicing** using the **Ericsson FSU-975 fusion splicer**. The exercise was conducted to gain hands-on experience with fiber optic preparation, splicing, and splice loss estimation.
+This repository documents an experiment on **optical fiber fusion splicing** using the **Ericsson FSU-975 fusion splicer**. This exercise was conducted to gain hands-on experience with fiber optic preparation, splicing, and splice loss estimation.
 
 ---
 
@@ -90,15 +90,14 @@ Note that there are default programs or you can decide to define your parameters
 ### 🔹 Tape Weld 
 ![Tape Weld](https://github.com/samueloladosu37/Optical-Fiber-Splicing-with-Ericsson-FSU-975/blob/main/Tape%20Weld.png)
 
-### 🔹 Lens Weld 
+### 🔹 Lens Weld : Fiber inserted from one end of the V-groove
 ![Lens Weld](https://github.com/samueloladosu37/Optical-Fiber-Splicing-with-Ericsson-FSU-975/blob/main/Lens.png)
-Fiber inserted from one end of the V-groove
 
 ---
 
 ## ✅ Conclusion
 
-This experiment successfully demonstrated the process of **fusion splicing**, where two optical fibers are **welded together under controlled heat** using the Ericsson FSU-975 splicer. The quality of the splice is highly dependent on **proper fiber preparation** — including stripping, cleaning, and precise cleaving — followed by accurate alignment and welding.
+This experiment successfully demonstrated the process of fusion splicing, where two optical fibers are welded together under controlled heat using the Ericsson FSU-975 splicer. The quality of the splice is highly dependent on proper fiber preparation — including stripping, cleaning, and precise cleaving — followed by accurate alignment and welding.
 
 ### Key Results:
 - Achieved an **attenuation (splice loss) of less than 0.02 dB**
@@ -107,7 +106,7 @@ This experiment successfully demonstrated the process of **fusion splicing**, wh
   - **0.05–0.30 dB** as acceptable in many field installations
 
 ### Additional Observations:
-- **Visual inspection** on the splicer was the first checkpoint for splice quality before measuring loss.
+- Visual inspection on the splicer was the first checkpoint for splice quality before measuring loss.
 - Understanding the weld types (tape, lens) helped in recognizing their application-specific uses.
 - The parameter tuning for different splice types (tape, lens, gate) required careful and control tuning.
 - Proper fiber cleaving and cleanliness were critical stage to achieving low-loss connections.
